@@ -37,14 +37,14 @@ This responsive online code editor and compiler have the following features.
 
 |Feature|Details|
 |-------|-------|
-|**Multiple Language Support**|C, C++, Java, Python, Java Script.|
+|**Multiple Language Support**|Java, C++, C, Node JS, Node JS 10, Python 3, C#, Ruby, Rust, GO, Python 2.7, Java, Kotlin, Javascript.|
 |**Upload Code**|Code can be uploaded from local system|
 |**Download Code**|Code can be downloaded with the name specified by the user.|
 |**Custom Input**|A custom input box available for the user where user can enter inputs required by the program to run.|
 |**FullScreen Mode**|Editor can go fullscreen.|
 |**Save and Auto Save**|Code and editor settings gets auto-saved after every 10 seconds to prevent loss of code on closing the window accidentally. User can also save the code manually by clicking the save button.|
-|**Themes**|There are 9 editor themes available to choose from.|
-|**Fonts**|7 different fonts for the editor.|
+|**Themes**|There are 3 editor themes available (Visual Studio Dark, Visual Studio, High Contract Dark) to choose from.|
+|**Fonts**|There are 7 different attractive font styles for the editor.|
 |**Font Size**|User can also set font size for the editor.|
 
 ## Functions
